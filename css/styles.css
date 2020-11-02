@@ -1,0 +1,13 @@
+body {
+    background: rgba(0, 0, 0, 0.849);
+    color: rgba(142, 86, 156, 0.986);
+}
+
+.btn-custom {
+    background-color:  rgba(142, 86, 156, 0.986);
+    color: black;
+}
+
+.btn-custom:hover {
+    background-color: rgb(88, 47, 88);
+}
